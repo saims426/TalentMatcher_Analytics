@@ -179,10 +179,4 @@ SWITCH(
 - Promotions typically happen after 3+ years in-role
 - Skill-based recommendations can improve hiring outcomes
 
----
 
-## 📬 Contact
-
-For queries or feedback, connect on [LinkedIn](https://www.linkedin.com/in/aishwarya-baluri/) or open an issue on this repository.
-
----
